@@ -1,7 +1,7 @@
 ---
 title: MYD
 subtitle: Design & Marketing Resource
-image: /img/micah-yaple-design-consulting.png
+image: /img/micah-yaple-design-resources.png
 blurb:
   heading: Explain?
   text: >-
