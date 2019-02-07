@@ -1,102 +1,82 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: Resources
+image: /img/design-marketing-seo-resources.png
 heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: 'Design, marketing, and related resources and services for freelancers.'
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/design-resources.svg
+      text: |
+        DESIGN RESOURCES
+    - image: /img/marketing-resources.svg
+      text: |
+        MARKETING RESOURCES
+    - image: /img/search-engine-optimization-resources.svg
+      text: |
+        SEO RESOURCES
+    - image: /img/other-resources.svg
+      text: |
+        OTHER RESOURCES
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Mauris non luctus quam, et tristique ligula. Suspendisse eu tellus a nisi
+    vehicula hendrerit nec nec augue. Nam sagittis turpis ut diam pharetra, in
+    molestie justo efficitur...
 main:
-  heading: Great coffee with no compromises
+  heading: Resource Breakdown
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Suspendisse pharetra tortor dolor, nec tristique risus facilisis dictum.
+    Aenean quis nisl luctus, ornare est non, maximus nulla. Donec at lectus nec
+    nisl dictum mollis. Pellentesque habitant morbi tristique senectus et netus
+    et malesuada fames ac turpis egestas. Curabitur eget urna a metus tempus
+    dapibus. Pellentesque id sagittis ipsum. Mauris egestas non tortor nec
+    auctor.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Research & Mind Map Process
+    image: /img/research-resources.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Planning & Strategy Process
+    image: /img/planning-strategy-resources.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: 'Deconstructing, Analyzing, & Mocking Up Resources'
+    image: /img/analysis-deconstruction-resources.png
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: John Doe
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Proin varius sit amet tellus id interdum. Phasellus eu ornare mauris, at
+      suscipit ipsum. Sed ac nisl a neque sodales imperdiet. Aenean nulla eros,
+      tincidunt eu ipsum vel, cursus euismod nibh.
+  - author: Jane Doe
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Praesent malesuada purus in est mollis, in sagittis massa ultrices.
+      Pellentesque ut tincidunt nisi, non mattis dolor.
+full_image: /img/brainstorming-consultation-resources.png
 pricing:
-  heading: Monthly subscriptions
+  heading: Classes
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Aliquam accumsan ex sit amet tortor tristique, in consequat ipsum tincidunt.
+    Aenean blandit mauris nisl, sit amet dignissim urna facilisis eget.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 'Duis sit amet nisl mollis, fermentum nibh ut, viverra turpis.'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Item 1
+        - Item 2"
+        - Item 3"
+      plan: Single Class
+      price: X
+    - description: 'Maecenas ut lectus lacus. Vestibulum sagittis vestibulum venenatis. '
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Item 1
+        - Item 2
+        - Item 3
+      plan: 'Monthly '
+      price: XX
+    - description: Sed quis ipsum mi.
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - We got you
+        - Fam
       plan: Custom
       price: '?'
 ---
-
 
