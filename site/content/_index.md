@@ -1,6 +1,6 @@
 ---
-title: Resources
-subtitle: 'Free, for creators'
+title: Help
+subtitle: 'Free, for creatives'
 image: /img/micah-yaple-design-resources.png
 blurb:
   heading: Explain?
