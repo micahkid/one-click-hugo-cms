@@ -1,19 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: '1234 XX Avenue, South San Francisco, California 94080'
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
 ---
+# About MYD
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Cras eu dapibus risus. Proin pretium quis augue vitae tempor. Nunc rhoncus tempus mauris, quis molestie nisi lobortis eget.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+### Contact
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Integer tincidunt turpis at erat rutrum mattis. Aliquam metus velit, fringilla ut tempor ac, rhoncus sit amet mauris.!
