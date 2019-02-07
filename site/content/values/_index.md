@@ -1,5 +1,5 @@
 ---
-title: About
+title: Our Process
 image: /img/about-micah-yaple-design.png
 values:
   - heading: Imagine
