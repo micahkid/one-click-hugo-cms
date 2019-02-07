@@ -1,27 +1,28 @@
 ---
-title: MYD
-subtitle: Design & Marketing Resource
+title: Dreamer?
+subtitle: Free guides & resources for  creatives
 image: /img/micah-yaple-design-resources.png
 blurb:
   heading: Explain?
-  text: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut augue in
-    erat sagittis condimentum. Sed consectetur eu justo aliquet pulvinar. 
+  text: >
+    On this site you'll find free guides and resources for design, marketing,
+    seo, business and many other fields. Written by experts with authority in
+    their fields.
 intro:
-  heading: Resources
-  text: >-
-    Maecenas fermentum, urna et feugiat condimentum, metus massa auctor ex, in
-    dictum est sapien ut enim. Suspendisse sagittis id arcu non efficitur.
+  heading: Free Resources
+  text: >
+    We've compiled a library of free guides, tutorials, & tools to help you
+    achieve your next goal in your path.
 products:
   - image: /img/design-resources.svg
     text: DESIGN RESOURCES
   - image: /img/marketing-resources.svg
     text: MARKETING RESOURCES
 values:
-  heading: Show me
+  heading: Our Process
   text: >-
-    In eget eros imperdiet, rutrum elit quis, scelerisque enim. Donec a posuere
-    nulla, vel ornare tellus. Etiam in dolor hendrerit, lobortis nibh non,
-    convallis erat..
+    We wanted to create VALUE with our resource guides, so we compiled a 'code
+    of conduct' for producing valuable & content. You can see our entire process
+    for creating valuable resources below.
 ---
 
