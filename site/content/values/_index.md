@@ -1,45 +1,36 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: About
+image: /img/about-micah-yaple-design.png
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Imagine
+    imageUrl: /img/imagine-creation-process.png
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Aliquam vel tincidunt diam. Vivamus non mollis nibh. Donec semper eros et
+      ipsum blandit sagittis. Sed vitae maximus lacus. 
+  - heading: Research
+    imageUrl: /img/research-deconstruct-creation-process.png
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Aenean nec libero ac mauris tristique feugiat. Vestibulum eget efficitur
+      mauris. Sed mauris sem, porttitor ac lorem non, lacinia ultrices massa.
+  - heading: Mock Up & Experiment
+    imageUrl: /img/mock-up-experiment-design-process.png
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Proin iaculis justo sit amet ultricies imperdiet. Fusce nibh erat,
+      consectetur sed aliquam sed, posuere vel ipsum. Aliquam vel lobortis ex.
+      Phasellus bibendum, nunc sit amet tincidunt varius, metus lectus tincidunt
+      lorem, ut molestie elit lorem eget enim. Cras malesuada massa in justo
+      placerat, a ornare risus consequat.
+  - heading: Finalize
+    imageUrl: /img/finalize-design-process.png
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      Vestibulum ligula risus, pulvinar sit amet elementum id, dapibus quis
+      metus. Sed sed turpis congue, suscipit purus vitae, tristique est. Nunc
+      porta maximus vestibulum. Duis et porta mi. Nullam condimentum nibh sed
+      molestie gravida. 
+  - heading: Reinvest & Recreate
+    imageUrl: /img/reinvest-reinvent-creation-process.png
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Morbi rutrum consequat cursus. Donec sodales lorem magna, volutpat egestas
+      dui euismod ut.
 ---
+
