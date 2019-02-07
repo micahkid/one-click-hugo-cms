@@ -1,6 +1,6 @@
 ---
-title: Dreamer?
-subtitle: Free guides & resources for  creatives
+title: Resources
+subtitle: 'Free, for creators'
 image: /img/micah-yaple-design-resources.png
 blurb:
   heading: Explain?
