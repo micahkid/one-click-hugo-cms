@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 240 190" style="enable-background:new 0 0 240 190;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#64FFDA;}
+	.st3{fill:#E0E0E0;}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{fill:#2D6C71;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="120.725" y1="17" x2="120.725" y2="176" gradientTransform="matrix(1 0 0 -1 0 192)">
+	<stop  offset="0" style="stop-color:#808080;stop-opacity:0.25"/>
+	<stop  offset="0.54" style="stop-color:#808080;stop-opacity:0.12"/>
+	<stop  offset="1" style="stop-color:#808080;stop-opacity:0.1"/>
+</linearGradient>
+<rect x="55" y="16" class="st0" width="131.4" height="159"/>
+<rect x="56.6" y="17.2" class="st1" width="128.3" height="154.3"/>
+<rect x="65.6" y="27" class="st2" width="50.4" height="4.1"/>
+<rect x="65.6" y="123.5" class="st2" width="50.4" height="4.1"/>
+<rect x="65.6" y="35.3" class="st3" width="110.2" height="4.1"/>
+<rect x="65.6" y="43.6" class="st3" width="110.2" height="4.1"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="120.724" y1="80.6356" x2="120.724" y2="131.3606" gradientTransform="matrix(1 0 0 -1 0 192)">
+	<stop  offset="0" style="stop-color:#B3B3B3;stop-opacity:0.25"/>
+	<stop  offset="0.54" style="stop-color:#B3B3B3;stop-opacity:0.1"/>
+	<stop  offset="1" style="stop-color:#B3B3B3;stop-opacity:5.000000e-02"/>
+</linearGradient>
+<rect x="64.7" y="60.6" class="st4" width="112" height="50.7"/>
+<rect x="65.7" y="61.4" class="st5" width="110.2" height="48.4"/>
+<rect x="65.6" y="149.6" class="st3" width="110.2" height="4.1"/>
+<rect x="65.6" y="158.1" class="st3" width="110.2" height="4.1"/>
+<rect x="65.6" y="141.1" class="st3" width="110.2" height="4.1"/>
+<rect x="65.6" y="132.6" class="st3" width="110.2" height="4.1"/>
+</svg>
