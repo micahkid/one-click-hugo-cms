@@ -10,8 +10,10 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+      <div class="cms mw6">
           <!-- Comments !-->
       {{ template "_internal/disqus.html" . }}
+      </div>
     </div>
  
   </div>
