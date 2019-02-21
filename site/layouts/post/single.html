@@ -11,12 +11,7 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
           <!-- Comments !-->
-
-    {{ partial "disqus" . }}
-
-    <!-- Counter !-->
-    
-    {{ partial "disqus-counter" . }}
+      {{ template "_internal/disqus.html" . }}
     </div>
  
   </div>
