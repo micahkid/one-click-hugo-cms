@@ -1,3 +1,5 @@
 baseurl = "/"
+GoogleAnalytics = "UA-133374980-2"
 languageCode = "en-us"
 title = "Homepage"
+
