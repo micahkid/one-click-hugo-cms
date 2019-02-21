@@ -7,6 +7,15 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{{ .Description | safeHTML }}">
+	{{ if .Description }}
+	<meta name="description" content="{{ .Description }}">
+	{{ else if .IsPage }}
+	<meta name="description" content="{{ .Summary | plainify }}">
+	{{ else if eq .URL “/post/” }}
+	<meta name="description" content="Free Resources for Freelancers">
+	{{ else }}
+	<meta name="description" content="Free Resources for Freelancers">
+	{{ end }}
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 	<!-- Favicons -->
