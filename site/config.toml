@@ -1,5 +1,6 @@
-baseurl = "/"
+baseurl = "https://freelanc.io/"
 GoogleAnalytics = "UA-133374980-2"
+disqusShortname = "freelancio"
 languageCode = "en-us"
 title = "Homepage"
 
