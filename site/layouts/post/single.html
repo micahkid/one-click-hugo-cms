@@ -10,10 +10,7 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-    </div>
-    <!-- Start Disqus !-->
-    <div class="cms mw6">
-    <!-- Comments !-->
+          <!-- Comments !-->
 
     {{ partial "disqus" . }}
 
@@ -21,7 +18,7 @@
     
     {{ partial "disqus-counter" . }}
     </div>
-    <!-- End Disqus !-->
+ 
   </div>
   {{ end }}
 
