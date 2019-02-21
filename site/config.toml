@@ -3,4 +3,6 @@ GoogleAnalytics = "UA-133374980-2"
 disqusShortname = "freelancio"
 languageCode = "en-us"
 title = "Homepage"
+[params]
+    addThis = "ra-5c6e3d972db0204a"
 
