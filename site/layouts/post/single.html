@@ -11,12 +11,18 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
+    <!-- Start Disqus !-->
+    <div class="cms mw6">
+    <!-- Comments !-->
+
+    {{ partial "disqus" . }}
+
+    <!-- Counter !-->
+    
+    {{ partial "disqus-counter" . }}
+    </div>
+    <!-- End Disqus !-->
   </div>
-{{ end }}
-<!-- Comments !-->
+  {{ end }}
 
-{{ partial "disqus" . }}
 
-<!-- Counter !-->
-
-{{ partial "disqus-counter" . }}
