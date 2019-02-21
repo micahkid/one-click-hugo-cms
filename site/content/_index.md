@@ -1,5 +1,6 @@
 ---
 title: RESOURCES
+description: 'Free Resources for Freelancers'
 subtitle: 'For Freelancers'
 image: /img/micah-yaple-design-resources.png
 blurb:
