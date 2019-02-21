@@ -10,9 +10,14 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+      <!--Social Share-->
       <div class="cms mw6">
+          {{ partial "social-share" . }}
+            </div>
+          <div class="cms mw6">
           <!-- Comments !-->
       {{ template "_internal/disqus.html" . }}
+      </div>
       </div>
     </div>
  
