@@ -10,8 +10,6 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-      {{ partial "addthis" . }}
-      {{ partial "addthis-script" . }}
       {{ template "_internal/disqus.html" . }}
       </div>
     </div>
