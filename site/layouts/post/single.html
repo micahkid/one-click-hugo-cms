@@ -10,7 +10,9 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+      <div class="mw6 center ph3 pv4">
       {{ partial "social-share" . }}
+    </div>
       {{ template "_internal/disqus.html" . }}
       </div>
     </div>
