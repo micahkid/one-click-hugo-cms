@@ -2,7 +2,7 @@
 title: Free Resources 
 description: 'Free Resources for Freelancers & Remote Workers'
 subtitle: 'For Freelancers & Remote Workers'
-image: /img/freelancio-resources-freelancers-dns
+image: /img/freelancio-resources-freelancers-dns.png
 blurb:
   heading: Explain?
   text: >+
