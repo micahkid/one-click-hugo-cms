@@ -1,8 +1,8 @@
 ---
-title: Free Resources for Freelancers
-description: 'Free Resources for Freelancers'
-subtitle: 'For Freelancers'
-image: /img/micah-yaple-design-resources.png
+title: Free Resources 
+description: 'Free Resources for Freelancers & Remote Workers'
+subtitle: 'For Freelancers & Remote Workers'
+image: /img/freelancio-resources-freelancers-dns
 blurb:
   heading: Explain?
   text: >+
