@@ -22,7 +22,7 @@ products:
   - image: /img/design-resources.svg
     text: DESIGN RESOURCES
   - image: /img/marketing-resources.svg
-    text: MARKETING RESOURCES
+    text:  [MARKETING RESOURCES](/seo-resources)
 values:
   heading: Our Process
   text: >-
