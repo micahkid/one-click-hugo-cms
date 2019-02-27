@@ -1,7 +1,7 @@
 ---
 title: Free Resources
 subtitle: For Freelancers & Remote Workers
-image: /img/freelancio-resources-for-freelancers.png
+image: /img/freelancio-resources-for-freelancers-remote-workers.png
 blurb:
   heading: Explain?
   text: >+
