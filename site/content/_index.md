@@ -1,5 +1,5 @@
 ---
-title: Free Resources
+title: Resources
 subtitle: For Freelancers & Remote Workers
 description: Free Resources & Tools for Freelancers & Remote Workers
 image: /img/freelancio-resources-for-freelancers-remote-workers.png
