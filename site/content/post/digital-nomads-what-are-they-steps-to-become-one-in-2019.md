@@ -68,7 +68,7 @@ I’ve compiled a general list of jobs that are commonly seen in the digital nom
 * Sound Designer
 * Videographer
 * IT
-  Specialist
+* Specialist
 * SEO
 * Digital Marketer
 * Email Marketer
