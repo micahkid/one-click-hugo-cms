@@ -1,7 +1,10 @@
 {{ define "main" }}
 
   <div class="mw6 center ph3 pv4">
-      {{ partial "breadcrumbs" . }}
+      <span class="breadcrumb">
+          <a href="/">Freelancio</a>
+            {{ template "breadcrumb" dict "currentPage" .Page "id" .UniqueID }}
+          </span>
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
