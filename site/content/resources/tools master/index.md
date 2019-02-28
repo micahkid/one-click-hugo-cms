@@ -2,6 +2,8 @@
 title: Tools & Resources Master List
 image: /img/design-marketing-seo-resources.png
 description: "Design, marketing, SEO, and related tools and resources master list"
+categories: ["Design", "Marketing", "SEO", "Dev"]
+tags: ["design", "marketing", "seo", "dev"]
 ---
 
 # All-In-One Platforms
