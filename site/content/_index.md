@@ -1,8 +1,10 @@
 ---
-title: Free Resources 
-description: 'Free Resources for Freelancers & Remote Workers'
-subtitle: 'For Freelancers & Remote Workers'
-image: /img/freelancio-resources-freelancers-dns.png
+title: Resources
+subtitle: Freelance & 
+          
+          Remote Work
+description: Free Resources & Tools for Freelancers & Remote Workers
+image: /img/freelancio-resources-for-freelancers-remote-workers.png
 blurb:
   heading: Explain?
   text: >+
@@ -22,7 +24,7 @@ products:
   - image: /img/design-resources.svg
     text: DESIGN RESOURCES
   - image: /img/marketing-resources.svg
-    text: MARKETING RESOURCES
+    text:  MARKETING RESOURCES
 values:
   heading: Our Process
   text: >-
