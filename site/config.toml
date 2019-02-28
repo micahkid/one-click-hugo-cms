@@ -7,5 +7,7 @@ title = "Homepage"
   author = "authors"
   tag = "tags"
   category = "categories"
+[blackfriday]
+  hrefTargetBlank = true
 
 

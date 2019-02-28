@@ -8,7 +8,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 # All-In-One Platforms
 
-[Cyfe](http://www.cyfe.com/?ref=freelancio){:target="\_blank"} - All-in-one business dashboard
+[Cyfe](http://www.cyfe.com/?ref=freelancio) - All-in-one business dashboard
 
 [Dashly](https://www.dashly.app/?ref=freelancio) - Helps to create multichannel communication with your customers. Moreover, this communication can be automated on basis of customer behavior.
 
