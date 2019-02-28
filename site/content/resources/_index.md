@@ -16,7 +16,8 @@ intro:
         SEO RESOURCES
     - image: /img/other-resources.svg
       text: |
-        <a href="/resources/tools-master" target="_self">TOOLS MASTER LIST</a>
+        TOOLS MASTER LIST
+      link: /resources/tools-master/
   heading: What we offer
   description: >
     Mauris non luctus quam, et tristique ligula. Suspendisse eu tellus a nisi
