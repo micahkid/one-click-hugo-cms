@@ -6,7 +6,7 @@ categories: ["Design", "Marketing", "SEO", "Dev"]
 tags: ["design", "marketing", "seo", "dev"]
 ---
 
-# All-In-One Platforms
+## All-In-One Platforms
 
 [Cyfe](http://www.cyfe.com/?ref=freelancio) - All-in-one business dashboard
 
@@ -26,7 +26,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Zoho](https://www.zoho.com/?ref=freelancio) - Cloud Software Suite and SaaS Applications for Businesses
 
-# Automation
+## Automation
 
 [Actiondesk](https://www.actiondesk.io/?ref=freelancio) - Googlesheets & Zapier Had a Kid
 
@@ -38,7 +38,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Zuzu](https://www.zendesk.com/?ref=freelancio) - knowledge assistant for your workplace
 
-# Invoicing/Contracts
+## Invoicing/Contracts
 
 [And.co](https://www.and.co/?ref=freelancio) - Invoicing, Time Tracking, Payments, and More For Freelancers and Independent Contractors
 
@@ -52,7 +52,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [ZipBooks](https://zipbooks.com/?ref=freelancio) - ZipBooks is free accounting software that sends invoices, tracks time and expenses, integrates with your bank & lets you process credit cards.
 
-# Best Of Platforms
+## Best Of Platforms
 
 [Asana](https://asana.com/?ref=freelancio) - manage your team's work, projects, & tasks online
 
@@ -74,7 +74,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Zenkit](https://zenkit.com/?ref=freelancio) - online project management
 
-# Best Of Browser Extensions
+## Best Of Browser Extensions
 
 [Facebook Toolkit Chrome Extension](https://chrome.google.com/webstore/detail/toolkit-for-facebook/?ref=freelancio)
 
@@ -94,7 +94,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/?ref=freelancio) - best adblocker
 
-# Team/Personal O**rganization Tools**
+## Team/Personal Organization Tools
 
 [Airtable](https://airtable.com/?ref=freelancio) - Airtable works like a spreadsheet but gives you the power of a database to organize anything.
 
@@ -116,7 +116,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Typeform](https://www.typeform.com/?ref=freelancio) - robust surveying app used for customer feedback
 
-# **Graphic** **Design + UX/UI Tools**
+## Graphic Design + UX/UI Tools
 
 [Adobe XD](https://www.adobe.com/products/xd.html?ref=freelancio) - Adobe's UI/UX software
 
@@ -138,7 +138,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Zeplin](https://zeplin.io/?ref=freelancio) - collaboration & handoff for UI designers and developers
 
-# **Customer Relationship Management** (CRM) Tools
+## Customer Relationship Management (CRM) Tools
 
 [Agile CRM](https://www.agilecrm.com/?ref=freelancio) - Customer Relationship Management System
 
@@ -154,9 +154,9 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Zendesk](https://www.zendesk.com/?ref=freelancio) - software for better customer service
 
-# **Marketing Tools**
+## Marketing Tools
 
-## **Email Marketing Tools**
+### Email Marketing Tools
 
 [ConvertKit](https://convertkit.com/?ref=freelancio) - Get the automations and email marketing tools you need to grow your blog and business.
 
@@ -190,7 +190,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Quokka](https://quokka.io/?ref=freelancio) - Quokka shows a retargeting message to those who ignored your message so that they will never miss an important update from you.
 
-## **Social Media Tools**
+### Social Media Tools
 
 [Brand24](https://brand24.com/?ref=freelancio) - Social Media Monitoring Tool
 
@@ -208,7 +208,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Sniply](http://snip.ly/?ref=freelancio) - Social media conversion
 
-## Live Webchat
+### Live Webchat
 
 [Chatport](https://www.chaport.com/?ref=freelancio) - Free Live Chat Support Software for Websites
 
@@ -216,15 +216,15 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Crisp](https://crisp.chat/?ref=freelancio) - Customer Messaging Platform For Startups & SMB's
 
-## Presentation
+### Presentation
 
 [Crowdcast](https://www.crowdcast.io/?ref=freelancio) - Webinars
 
-## Subscription
+### Subscription
 
 [Teachery](https://www.teachery.co/?ref=freelancio) - Sell online courses (videos, presentations, etc)
 
-## URL Shorteners
+### URL Shorteners
 
 [Rebrandly](https://www.rebrandly.com/?ref=freelancio) - Track and Optimize the links you share to improve CTR by up to 39%. Rebrandly is the most complete and reliable Branded Link Management Platform.
 
@@ -234,7 +234,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Short.cm](https://short.cm/?ref=freelancio) - White label URL Shortener. Create your own short branded URLs
 
-## Leads
+### Leads
 
 [AeroLeads](https://aeroleads.com/?ref=freelancio) - Find emails + phone numbers of businesses
 
@@ -242,9 +242,9 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Lead Pages](https://www.leadpages.net/?ref=freelancio) - Generate leads and increase revenue using the industry-leading landing page creator with accompanying suite of lead generation and opt-in tools
 
-# Web Design/Development Tools
+## Web Design/Development Tools
 
-### **Web Page Builders (Non coder)**
+### Web Page Builders (Non coder)
 
 [Webflow](https://webflow.com/?ref=freelancio) - Responsive web design tool, CMS & hosting
 
@@ -252,9 +252,9 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Tilda](http://tilda.cc/?ref=freelancio) - build beautiful websites without code
 
-# SEO Tools
+## SEO Tools
 
-### **Analytics**
+### Analytics
 
 [Google Analytics](https://marketingplatform.google.com/about/analytics/?ref=freelancio) - Analytics Tools & Solutions for Your Business
 
@@ -262,7 +262,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Fullstory](https://www.fullstory.com/?ref=freelancio) - See every click, swipe & scroll on your website
 
-### **Page Speed Testing**
+### Page Speed Testing
 
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?ref=freelancio) - Google's standard in website speed testing
 
@@ -272,7 +272,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Test My Site](https://testmysite.io/?ref=freelancio) - Netlify's speed test
 
-### **Keyword Research**
+### Keyword Research
 
 [Keyword Finder](https://kwfinder.com/?ref=freelancio) - Keyword generator, etc.
 
@@ -282,7 +282,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Keyworddit](http://www.keyworddit.com/?ref=freelancio) - The Reddit Keyword Research Tool
 
-### **Crawlers**
+### Crawlers
 
 [Beam Us Up](http://beamusup.com/?ref=freelancio) - SEO crawling software
 
@@ -292,19 +292,19 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Broken Link Checker Extension](https://chrome.google.com/webstore/detail/broken-link-checker/?ref=freelancio) -Broken Link Checker Chrome Extension
 
-### **SEO Tools & Extensions**
+### SEO Tools & Extensions
 
 [Meta SEO Inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/?ref=freelancio) - (Chrome Extension)
 
 [Moz Bar](https://moz.com/products/pro/seo-toolbar/?ref=freelancio) - SEO toolbar (Chrome extension)
 
-[SEO Local Checklist](https://localseochecklist.org/?ref=freelancio) - \*Important checklist
+[SEO Local Checklist](https://localseochecklist.org/?ref=freelancio) - SEO Local checklist
 
 [SERPTrends SEO Extension](https://chrome.google.com/webstore/detail/serptrends-seo-extension/?ref=freelancio) - Shows dynamics on Google, Yahho, and BING SERPs
 
 [Pleper](https://pleper.com/?ref=freelancio) - Google review link generator + SEO tools
 
-### **SEO Checkers Competitor Research**
+### SEO Checkers Competitor Research
 
 [Ahrefs](https://ahrefs.com/?ref=freelancio) - Backlinks, improve search traffic, research competitors and niche
 
@@ -318,7 +318,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [SEO Site Checkup](https://seositecheckup.com/?ref=freelancio) - On page SEO checker
 
-### **Citation Listings and Listing Services**
+### Citation Listings and Listing Services
 
 [Local Citation Finder](https://whitespark.ca/local-citation-finder/?ref=freelancio) - where to list, competition, etc
 
@@ -328,7 +328,7 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Synup Business Listings](https://scan.synup.com/?ref=freelancio) - citation local listings
 
-### **Schema Markup/Open Graph/Structured Data**
+### Schema Markup/Open Graph/Structured Data
 
 [Facebook Debugger](https://developers.facebook.com/tools/debug/?ref=freelancio) - Open Graph tag debugger
 
@@ -336,13 +336,13 @@ tags: ["design", "marketing", "seo", "dev"]
 
 [Schema App](https://www.schemaapp.com/?ref=freelancio) - Schema
 
-### **Hosting**
+### Hosting
 
 [WP Engine](https://wpengine.com/?ref=freelancio) - WP Hosting
 
 [WPX](https://wpxhosting.com/?ref=freelancio) - WP Hosting
 
-### **Wordpress Plugins**
+### Wordpress Plugins
 
 [WP Rocket](https://wp-rocket.me/?ref=freelancio) - WP caching plugin
 
