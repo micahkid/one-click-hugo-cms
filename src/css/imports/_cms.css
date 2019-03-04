@@ -78,6 +78,8 @@
   }
 
   & ol {
+    list-style: none;
+    counter-reset: i 0;
     margin-left: 1.33rem;
     & > li:before {
       content: counter(i);
