@@ -6,61 +6,64 @@ categories: ["Design", "Marketing", "SEO", "Dev"]
 tags: ["design", "marketing", "seo", "dev"]
 ---
 
-**Category**
+## **Category**
+
 [Graphic Design Tools](/resources/tools-master/#graphic-design-tools)
 [Marketing Tools](/resources/tools-master/#marketing-tools)
 [SEO Tools](/resources/tools-master/#seo-tools)
 [Web Dev Tools](/resources/tools-master/#web-dev-tools)
-**_Subcategories_**
+
+## **_Subcategories_**
+
 [All-In-One Platforms](/resources/tools-master/#all-in-one-platforms)
 [Automation](/resources/tools-master/#automation)
 [Invoices & Contracts](/resources/tools-master/#invoicing-contracts)
 
 ## All-In-One Platforms
 
-1. [Cyfe](http://www.cyfe.com/?ref=freelancio) - All-in-one business dashboard
+- [Cyfe](http://www.cyfe.com/?ref=freelancio) - All-in-one business dashboard
 
-2. [Dashly](https://www.dashly.app/?ref=freelancio) - Helps to create multichannel communication with your customers. Moreover, this communication can be automated on basis of customer behavior.
+- [Dashly](https://www.dashly.app/?ref=freelancio) - Helps to create multichannel communication with your customers. Moreover, this communication can be automated on basis of customer behavior.
 
-3. [Drift](https://www.drift.com/?ref=freelancio) - Conversational Marketing Platform
+- [Drift](https://www.drift.com/?ref=freelancio) - Conversational Marketing Platform
 
-4. [Freshworks](https://www.freshworks.com/?ref=freelancio) - Refreshing Cloud Business Software
+- [Freshworks](https://www.freshworks.com/?ref=freelancio) - Refreshing Cloud Business Software
 
-5. [Helpjuice](https://helpjuice.com/?ref=freelancio) - World's Most Powerful Knowledge Base Software
+- [Helpjuice](https://helpjuice.com/?ref=freelancio) - World's Most Powerful Knowledge Base Software
 
-6. [Hubspot](https://www.hubspot.com/?ref=freelancio) - Inbound Marketing, Sales, and Service Software
+- [Hubspot](https://www.hubspot.com/?ref=freelancio) - Inbound Marketing, Sales, and Service Software
 
-7. [Intercom](https://www.intercom.com/?ref=freelancio) - Customer Messaging Platform
+- [Intercom](https://www.intercom.com/?ref=freelancio) - Customer Messaging Platform
 
-8. [SendPulse](https://sendpulse.com/?ref=freelancio) - Multi-Channel Marketing Automation Platform
+- [SendPulse](https://sendpulse.com/?ref=freelancio) - Multi-Channel Marketing Automation Platform
 
-9. [Zoho](https://www.zoho.com/?ref=freelancio) - Cloud Software Suite and SaaS Applications for Businesses
+- [Zoho](https://www.zoho.com/?ref=freelancio) - Cloud Software Suite and SaaS Applications for Businesses
 
 ## Automation
 
-1. [Actiondesk](https://www.actiondesk.io/?ref=freelancio) - Googlesheets & Zapier Had a Kid
+- [Actiondesk](https://www.actiondesk.io/?ref=freelancio) - Googlesheets & Zapier Had a Kid
 
-2. [Froala](https://www.froala.com/design-blocks/webpage-builder/?ref=freelancio) - Webpage builder
+- [Froala](https://www.froala.com/design-blocks/webpage-builder/?ref=freelancio) - Webpage builder
 
-3. [Unika](https://www.unika.ai/?ref=freelancio) - AI-Powered Knowledge Management Software
+- [Unika](https://www.unika.ai/?ref=freelancio) - AI-Powered Knowledge Management Software
 
-4. [Zapier](https://zapier.com/?ref=freelancio) - The easiest way to automate your work
+- [Zapier](https://zapier.com/?ref=freelancio) - The easiest way to automate your work
 
-5. [Zuzu](https://www.zendesk.com/?ref=freelancio) - knowledge assistant for your workplace
+- [Zuzu](https://www.zendesk.com/?ref=freelancio) - knowledge assistant for your workplace
 
 ## Invoicing/Contracts
 
-1. [And.co](https://www.and.co/?ref=freelancio) - Invoicing, Time Tracking, Payments, and More For Freelancers and Independent Contractors
+- [And.co](https://www.and.co/?ref=freelancio) - Invoicing, Time Tracking, Payments, and More For Freelancers and Independent Contractors
 
-2. [cushion](https://cushionapp.com/?ref=freelancio) - Forecast your schedule, track your income, and reach your financial goals.
+- [cushion](https://cushionapp.com/?ref=freelancio) - Forecast your schedule, track your income, and reach your financial goals.
 
-3. [Bonsai](https://www.hellobonsai.com/?ref=freelancio) - All-in-one freelancing solution for the world's best creative freelancers
+- [Bonsai](https://www.hellobonsai.com/?ref=freelancio) - All-in-one freelancing solution for the world's best creative freelancers
 
-4. [paymo](https://www.paymoapp.com/?ref=freelancio) - Full-featured online project management app - Time Tracking, Resource Planning, Gantt Charts, Reports, Kanban boards, Invoices and Expenses.
+- [paymo](https://www.paymoapp.com/?ref=freelancio) - Full-featured online project management app - Time Tracking, Resource Planning, Gantt Charts, Reports, Kanban boards, Invoices and Expenses.
 
-5. [wave financial](https://www.waveapps.com/?ref=freelancio) - Free invoicing & accounting software with credit card processing & payroll services
+- [wave financial](https://www.waveapps.com/?ref=freelancio) - Free invoicing & accounting software with credit card processing & payroll services
 
-6. [ZipBooks](https://zipbooks.com/?ref=freelancio) - ZipBooks is free accounting software that sends invoices, tracks time and expenses, integrates with your bank & lets you process credit cards.
+- [ZipBooks](https://zipbooks.com/?ref=freelancio) - ZipBooks is free accounting software that sends invoices, tracks time and expenses, integrates with your bank & lets you process credit cards.
 
 ## Best Of Platforms
 
