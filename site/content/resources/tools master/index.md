@@ -6,6 +6,9 @@ categories: ["Design", "Marketing", "SEO", "Dev"]
 tags: ["design", "marketing", "seo", "dev"]
 ---
 
+[Automation](/resources/tools-master/#automation)
+[Invoices & Contracts](/resources/tools-master/#invoicing-contracts)
+
 ## All-In-One Platforms
 
 [Cyfe](http://www.cyfe.com/?ref=freelancio) - All-in-one business dashboard
