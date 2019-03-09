@@ -26,10 +26,8 @@ products:
   - image: /img/marketing-resources.svg
     text:  MARKETING RESOURCES
 values:
-  heading: Our Process
+  heading: What is Freelancio?
   text: >-
-    We wanted to create VALUE with our content, so we compiled a 'code of
-    conduct' for producing valuable & content. You can see our entire process
-    for creating valuable resources below.
+    Freelancio is library of guides, tools, and resources for creatives. We've always been the ones struggling to find valuable content for our questions, so we decided we should keep our research all in one place.
 ---
 
